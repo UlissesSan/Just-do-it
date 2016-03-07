@@ -1,0 +1,8 @@
+
+Design reference{
+	
+	https://dribbble.com/shots/1799193-Giphy-City
+	https://dribbble.com/shots/606745-In-app-Visual-Data
+	https://dribbble.com/shots/881241-Statistics-UI
+
+}
